@@ -23,4 +23,9 @@
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
     "url": "https://twitter.com/cnkesally"
+}, {
+    "name": "afdian",
+    "icon": "/images/icon/afdian.png",
+    "tip": "来给我发电？",
+    "url": "https://afdian.net/a/Kesally"
 }]
